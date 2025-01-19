@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Luca Nowak
-- 👀 I’m interested in pivoting into data analysis ( and data science down the line )!
-- 🌱 I’m currently learning the fundamentals of data analysis – i.e. Python, SQL, with a fun sprinkling of R.
-- 💞️ I’m looking to collaborate on beginner data analysis / data science projects.
-- 📫 How to reach me: on here, or via LinkedIn!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a psychologist with a love for statistics.
-
+- 👋 Hi, I’m Luca Nowak (he/him)
+- 👀 I’m a psychologist currently taking a BSc in Computer Science with OPIT
+- 🌱 I'm particularly interested in machine learning, cybersecurity and data science
+- 💞️ I’m looking to collaborate on beginner projects
+- 📝 My hobbies include D&D, gaming (RPGs in particular), writing and reading
 <!---
 luxkovacs/luxkovacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
